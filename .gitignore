@@ -39,5 +39,6 @@ Thumbs.db
 # Directory #
 node_modules/
 .idea/
+BuildingMachineLearning*/
 #bootstrap/
 ##*.min.js
