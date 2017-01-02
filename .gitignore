@@ -41,5 +41,6 @@ Thumbs.db
 node_modules/
 .idea/
 BuildingMachineLearning*/
+data/
 #bootstrap/
 ##*.min.js
